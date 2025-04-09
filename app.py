@@ -15,13 +15,11 @@ import random
 import os
 from dotenv import load_dotenv
 
-load_dotenv()  # Load environment variables from .env file
-
-# Configure Gemini API
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+# Configure Gemini API with the new model
+genai.configure(api_key="AIzaSyBiM-YZRhuz29gRHEReWx8USVvRJvpaoxg")
 
 # MongoDB Connection Setup
-MONGO_URI = os.getenv("MONGO_URI")
+MONGO_URI= "mongodb+srv://agriculture:agriculture@agriculture.a8s36tf.mongodb.net/?retryWrites=true&w=majority"
 
 
 def get_mongo_client():
