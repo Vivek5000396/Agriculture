@@ -443,7 +443,7 @@ def show_password_strength(password):
 
 # Initialize session state for background image
 if 'bg_image' not in st.session_state:
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/agriculture.jpg"
+    st.session_state.bg_image = "agriculture.jpg"
 
 # Create sidebar navigation
 with st.sidebar:
@@ -456,33 +456,33 @@ with st.sidebar:
 
 # Change background image based on selected page
 if selected_page == "Crop Management":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Crop Management.jpg"
+    st.session_state.bg_image = "Crop Management.jpg"
 elif selected_page == "Land & Resource Calculator":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Land (2).jpg"
+    st.session_state.bg_image = "Land (2).jpg"
 elif selected_page == "Irrigation Schedule":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Irrigation.jpg"
+    st.session_state.bg_image = "Irrigation.jpg"
 elif selected_page == "Yield Prediction":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Yield.jpg"
+    st.session_state.bg_image = "Yield.jpg"
 elif selected_page == "Weather Live Updates":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Weather.jpg"
+    st.session_state.bg_image = "Weather.jpg"
 elif selected_page == "Market Price Predictions":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Market.jpeg"
+    st.session_state.bg_image = "Market.jpeg"
 elif selected_page == "AI-Based Pest Control":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/pest.jpeg"
+    st.session_state.bg_image = "pest.jpeg"
 elif selected_page == "Soil Health Analysis":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Soil Health.jpg"
+    st.session_state.bg_image = "Soil Health.jpg"
 elif selected_page == "Fertilizer Recommendations":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Fertilizer.jpg"
+    st.session_state.bg_image = "Fertilizer.jpg"
 elif selected_page == "Crop Rotation Planning":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Crop rotation.jpg"
+    st.session_state.bg_image = "Crop rotation.jpg"
 elif selected_page == "Farm Management Insights":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Automation.png"
+    st.session_state.bg_image = "Automation.png"
 else:
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/agriculture.jpg"
+    st.session_state.bg_image = "agriculture.jpg"
 
 # Set background
 add_bg_from_local(st.session_state.bg_image)
-st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/agriculture.jpg"
+st.session_state.bg_image = "agriculture.jpg"
 
 # Display title
 st.markdown('<div class="title-container">Smart Agriculture Planning System</div>', unsafe_allow_html=True)
@@ -889,7 +889,7 @@ elif selected_page == "Login/Signup":
                     else:
                         st.error("Failed to resend verification code. Please try again.")
 elif selected_page == "Dashboard":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Dashboard.jpg"
+    st.session_state.bg_image = "Dashboard.jpg"
     st.markdown(
         """
         <div class="content-box">
@@ -1435,7 +1435,7 @@ elif selected_page == "Weather Live Updates":
                         st.error(f"An error occurred: {str(e)}")
                         st.info("Please try again later or check your internet connection.")
 elif selected_page == "Market Price Predictions":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Market.jpg"
+    st.session_state.bg_image = "Market.jpg"
     
     st.markdown(
         """
@@ -1545,7 +1545,7 @@ elif selected_page == "Market Price Predictions":
                     st.error(f"Error generating predictions: {str(e)}")
                     st.info("Please try again later or check your internet connection.")
 elif selected_page == "AI-Based Pest Control":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/PestControl.jpg"
+    st.session_state.bg_image = "PestControl.jpg"
     
     st.markdown(
         """
@@ -1678,7 +1678,7 @@ elif selected_page == "AI-Based Pest Control":
             st.warning("Image analysis feature is under development. Currently using text analysis only.")
 
 elif selected_page == "Soil Health Analysis":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Soil Health.jpg"
+    st.session_state.bg_image = "Soil Health.jpg"
     st.markdown(
         """
         <div class="content-box">
@@ -1866,7 +1866,7 @@ elif selected_page == "Soil Health Analysis":
             unsafe_allow_html=True
         )
 elif selected_page == "Fertilizer Recommendations":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/Fertilizer.jpg"
+    st.session_state.bg_image = "Fertilizer.jpg"
     
     st.markdown(
         """
@@ -2035,7 +2035,7 @@ elif selected_page == "Fertilizer Recommendations":
             unsafe_allow_html=True
         )
 elif selected_page == "Crop Rotation Planning":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/CropRotation.jpg"
+    st.session_state.bg_image = "CropRotation.jpg"
     st.markdown(
         """
         <div class="content-box">
@@ -2207,7 +2207,7 @@ elif selected_page == "Crop Rotation Planning":
             unsafe_allow_html=True
         )
 elif selected_page == "Farm Management Insights":
-    st.session_state.bg_image = "C:/Users/rishi/Desktop/Agriculture/FarmManagement.jpg"
+    st.session_state.bg_image = "FarmManagement.jpg"
     
     st.markdown(
         """
