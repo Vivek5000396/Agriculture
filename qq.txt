@@ -1,0 +1,154 @@
+1️⃣ Crop Management 🌾
+💡 Enter crop name & ask related questions
+
+Sample Questions:
+What is the best season to grow Paddy?
+
+How much water does Wheat require per day?
+
+What are the common pests that attack Maize?
+
+Which fertilizers are best for Cotton?
+
+How can I increase the yield of Sugarcane?
+
+2️⃣ Land & Resource Calculator 📏
+💡 Calculate land area & water needs
+
+Sample Questions:
+How do I calculate the total land area in square meters?
+
+How much water is required for 1 acre of Rice fields?
+
+How do I optimize water usage for Tomato farming?
+
+What is the ideal land size for growing Bananas?
+
+How can I convert square meters to acres?
+
+3️⃣ Irrigation Schedule 💧
+💡 Plan irrigation frequency & schedule
+
+Sample Questions:
+What is the best irrigation method for Paddy fields?
+
+How often should I irrigate Soybean crops?
+
+What is the ideal irrigation frequency for Wheat?
+
+How can I reduce water wastage in irrigation?
+
+How does weather affect irrigation planning?
+
+4️⃣ Yield Prediction 🌱
+💡 Predict crop yield based on land size
+
+Sample Questions:
+What is the expected yield of 1 acre of Corn?
+
+How does soil quality affect Rice yield?
+
+What is the average yield of Wheat per hectare?
+
+How can I maximize the yield of Potato crops?
+
+Does rainfall impact the yield of Maize?
+
+5️⃣ Weather Updates ☁️
+💡 Get real-time weather forecasts
+
+Sample Questions:
+What is the weather forecast for Vijayawada today?
+
+How does temperature impact Tea plantation?
+
+Will there be rainfall in Delhi next week?
+
+What are the best crops to grow in hot climates?
+
+How can I protect my crops from unexpected storms?
+
+6️⃣ Market Price Predictions 📈
+💡 AI-based market price trends for crops
+
+Sample Questions:
+What is the current price of Paddy per quintal?
+
+Will the price of Tomatoes increase next month?
+
+How do weather conditions affect Wheat prices?
+
+What are the best months to sell Onions?
+
+How do government policies affect crop prices?
+
+7️⃣ AI-Based Pest Control 🦗
+💡 Get AI-suggested pest control measures
+
+Sample Questions:
+How do I prevent Brown Plant Hopper attacks on Rice?
+
+What are the signs of Blight disease in Potatoes?
+
+What are the best organic pesticides for Tomatoes?
+
+How do I protect my Sugarcane from pests?
+
+What is the best way to control Aphids on Wheat?
+
+8️⃣ Soil Health Analysis 🌿
+💡 AI-based soil fertility recommendations
+
+Sample Questions:
+How do I test the pH level of my soil?
+
+What nutrients are missing if my Maize plants turn yellow?
+
+How can I improve soil fertility for Organic farming?
+
+What are the best practices for Crop rotation?
+
+How does soil salinity affect crop yield?
+
+9️⃣ AI-Based Fertilizer Recommendations 🧪
+💡 Best fertilizers for crops based on soil health
+
+Sample Questions:
+What is the best fertilizer for Rice production?
+
+How do I apply Urea to Maize crops?
+
+What organic fertilizers work best for Wheat?
+
+How do I use fertilizers efficiently to reduce costs?
+
+What are the side effects of over-fertilizing crops?
+
+🔟 AI-Powered Crop Rotation Planning 🔄
+💡 Get the best crop rotation strategies
+
+Sample Questions:
+What is the best crop rotation plan for Wheat fields?
+
+How does crop rotation improve soil fertility?
+
+What are the best crops to plant after Rice?
+
+How can I prevent soil depletion with rotation?
+
+Does crop rotation reduce the risk of plant diseases?
+
+1️⃣1️⃣ Automated Farm Management Insights 🚜
+💡 AI-based suggestions for smart farming
+
+Sample Questions:
+What are the daily farm management tasks for Dairy farms?
+
+How do I automate irrigation for Greenhouses?
+
+What is the best AI tool for monitoring Crop health?
+
+How can I use drones for Farm surveillance?
+
+How does AI help in Weather-based decision-making for farming?
+
